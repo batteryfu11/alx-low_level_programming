@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Desc - printing all possible combinations of 2 digits
+ * Desc - printing all possible combinations of 3 digits
  * Return: 0
  */
 int main(void)
