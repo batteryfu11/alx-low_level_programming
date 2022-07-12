@@ -51,3 +51,4 @@ int main(void)
 	printf("%s", passwd);
 
 	return (0);
+}
