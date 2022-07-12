@@ -2,12 +2,12 @@
 
 /**
  * _strcpy - copies a pointed string to a buffer
- * @str: pointed string
+ * @src: pointed string
  * @dest: buffer
  *
  * Return: The pointer to dest
  */
-char *_strcpy(char *dest, char *str)
+char *_strcpy(char *dest, char *src)
 {
 int index = 0;
 
