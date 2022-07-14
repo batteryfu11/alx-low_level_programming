@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * rott13 - Encodes a string using ROT13 format
+ * rot13 - Encodes a string using ROT13 format
  * @str: String operand
  *
  * Return: Apointer to the encoded string
