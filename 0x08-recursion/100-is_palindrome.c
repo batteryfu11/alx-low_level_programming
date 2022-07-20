@@ -1,4 +1,4 @@
-#include "maim.h"
+#include "main.h"
 
 int _strlen(char *s);
 int check_palindrome(char *s, int len, int index);
